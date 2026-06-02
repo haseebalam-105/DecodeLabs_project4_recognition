@@ -1,0 +1,2 @@
+Project 4 — Image & Text Recognition (project4_recognition.py)
+Two-track solution. Track A uses spaCy's pre-trained NER model to identify people, orgs, locations, dates, and money in raw text — interactive mode included. Track B uses pre-trained MobileNetV2 (ImageNet, 1000 classes) via TensorFlow/Keras for image classification from URLs or local files. Install commands are printed if dependencies are missing.
